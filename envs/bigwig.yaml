@@ -1,0 +1,7 @@
+name: bigwig
+channels:
+  - defaults
+  - bioconda
+  - conda-forge
+dependencies:
+  - deeptools

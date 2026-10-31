@@ -1,0 +1,9 @@
+name: plotting
+channels:
+  - defaults
+  - bioconda
+  - conda-forge
+dependencies:
+  - pygenometracks
+
+

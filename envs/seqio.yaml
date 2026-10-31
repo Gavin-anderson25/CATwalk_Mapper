@@ -1,0 +1,8 @@
+name: seqio
+channels:
+  - defaults
+  - bioconda
+  - conda-forge
+dependencies:
+  - biopython
+

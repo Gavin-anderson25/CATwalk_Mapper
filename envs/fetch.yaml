@@ -1,0 +1,9 @@
+name: fetch
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - ncbi-datasets-cli
+  - sra-tools
+
